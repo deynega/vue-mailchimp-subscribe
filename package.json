@@ -20,9 +20,7 @@
     "dist"
   ],
   "source": "src/vue-mailchimp-subscribe.js",
-  "main": "dist/vue-mailchimp-subscribe.js",
-  "module": "dist/vue-mailchimp-subscribe.js",
-  "unpkg": "dist/vue-mailchimp-subscribe.js",
+  "main": "src/vue-mailchimp-subscribe.js",
   "scripts": {
     "build": "microbundle",
     "start": "microbundle watch",
